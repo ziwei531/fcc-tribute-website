@@ -2,4 +2,4 @@
 
 This is a website created as required by freeCodeCamp's in order to attain their Responsive Web Design certification. 
 
-# View the website <a href="https://ziwei531.github.io/fcc-tribute-website/" target="__blank">here</a>
+# View the website [here](https://ziwei531.github.io/fcc-tribute-website){:target="_blank"}
